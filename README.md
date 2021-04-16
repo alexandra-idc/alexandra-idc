@@ -16,7 +16,7 @@ Presto vários serviços pela internet, entre eles:
 <br>
 <h5 align="center">FORMAÇÃO</h1>
 
-<div align="center"><font size="-1">Sou formada em Análise e Desenvolvimento de Sistemas, e pós-graduada em Ethical Hacking e Cyber Security</font></div>
+<h6 align="center">Sou formada em Análise e Desenvolvimento de Sistemas, e pós-graduada em Ethical Hacking e Cyber Security</div>
 <!---
 alexandra-idc/alexandra-idc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
