@@ -10,9 +10,10 @@ Presto vários serviços pela internet, entre eles:
   <li>Soluções para Hosting (criação e configuração de Datacenter virtual), gerenciamento de servidores dedicados e afins.</li>
 </ul>
 
-Acesse <b>gcorporation.com</b> para conhecer e contratar algum serviço meu futuramente.
+<div align="center">Acesse <b>gcorporation.com</b> para conhecer e contratar algum serviço meu futuramente.</div>
 <p align="center"><a href="https://pt-br.reactjs.org/">gcorporation.com</a></p>
-
+<br>
+<br>
 <h4 align="center">FORMAÇÃO</h1>
 
 <div align="center">Sou formada em Análise e Desenvolvimento de Sistemas, e pós-graduada em Ethical Hacking e Cyber Security</div>
