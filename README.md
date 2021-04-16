@@ -11,13 +11,14 @@ Presto vários serviços pela internet, entre eles:
 </ul>
 
 Acesse <b>gcorporation.com</b> para conhecer e contratar algum serviço meu futuramente.
+<p align="center"><a href="https://pt-br.reactjs.org/">gcorporation.com</a></p>
 
 <h4 align="center">FORMAÇÃO</h1>
+
 Sou formada em Análise e Desenvolvimento de Sistemas, e pós-graduada em Ethical Hacking e Cyber Security
 <!---
 alexandra-idc/alexandra-idc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center"><a href="https://pt-br.reactjs.org/">gcorporation.com</a></p>
 
