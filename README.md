@@ -10,7 +10,7 @@ Presto vários serviços pela internet, entre eles:
   <li>Soluções para Hosting (criação e configuração de Datacenter virtual), gerenciamento de servidores dedicados e afins.</li>
 </ul>
 
-<div align="center">Acesse <b><a href="https://pt-br.reactjs.org/">gcorporation.com</a></b> para conhecer e contratar algum serviço meu futuramente.</div>
+<div align="center">Acesse <b><a href="https://pt-br.reactjs.org/">gcorporation.com</a></b> para conhecer meus serviços.</div>
 
 <br>
 <br>
