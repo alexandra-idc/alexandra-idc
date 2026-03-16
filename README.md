@@ -1,27 +1,44 @@
-<h4 align="center">SOBRE MIM</h4>
+# Hi, I'm Alexandra 👋
 
-👋 Oi, me chamo Alexandra!
+Platform Engineer / Infrastructure Engineer focused on building reliable and secure infrastructure.
 
-Atuo atualmente como <b>Platform Engineer / Infrastructure Engineer</b>, com foco em
-infraestrutura, virtualização, cloud e ambientes bare metal, sempre priorizando
-estabilidade, segurança e alta disponibilidade.
+My main interests include:
 
-Minha trajetória profissional começou com <b>Desenvolvimento Web</b>, o que me proporcionou
-uma base sólida sobre aplicações, arquitetura, performance e segurança.  
-Com o tempo, evoluí naturalmente para a área de <b>infraestrutura e plataforma</b>, que é
-onde concentro minha atuação hoje.
+- Linux infrastructure
+- Bare metal environments
+- High-performance networking
+- DDoS mitigation architectures
+- System reliability and performance
 
-<br>
+---
 
-<h5 align="center">SOBRE ESTE GITHUB</h5>
+## Current Focus
 
-<h6 align="center">
-Este repositório reúne projetos de diferentes fases da minha carreira.
-Os projetos mais antigos refletem meu período de aprendizado e atuação em desenvolvimento web.
-Os conteúdos atuais e futuros são focados em infraestrutura, cloud, automação e platform engineering,
-representando minha evolução técnica ao longo dos anos.
-</h6>
+Currently exploring topics such as:
 
-<br>
-<br>
+- Linux networking internals
+- XDP / eBPF packet processing
+- High packet-per-second (PPS) mitigation
+- Infrastructure architecture design
 
+---
+
+## Featured Project
+
+- **High-Performance Layer 7 DDoS Mitigation Architecture**  
+  Design documentation for a layered mitigation architecture focused on high PPS attack scenarios.
+
+---
+
+## About this GitHub
+
+This profile contains projects from different stages of my technical journey.
+
+Older repositories reflect my early experience with web development, while more recent work focuses on:
+
+- infrastructure engineering
+- networking
+- system architecture
+- platform engineering
+
+These projects document my ongoing learning and experimentation in infrastructure and distributed systems.
